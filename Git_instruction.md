@@ -62,4 +62,5 @@
 
 *между двумя непоследовательными commit'ами:
 
-    git dif <hash1> <hash2>git status
+    git dif <hash1> <hash2>
+
